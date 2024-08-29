@@ -6,7 +6,7 @@ There are a few Python tools and libraries that can help with digitising scanned
 
 For converting scanned sheet music images to digital formats:
 
-- **SheetVision**: An open-source Python library for optical music recognition. It can detect musical elements in scanned scores and output to MIDI format[5].
+- **SheetVision**: An open-source Python library for optical music recognition. It can detect musical elements in scanned scores and output to MIDI format[5]. (SheetVision)[https://github.com/cal-pratt/SheetVision]
 
 - **Audiveris**: An open-source OMR system written in Java, but with Python bindings available. It can convert scanned scores to MusicXML format.
 
