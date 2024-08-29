@@ -55,4 +55,33 @@ References:
 - [5] https://www.reddit.com/r/learnpython/comments/ou69pu/are_there_any_python_libraries_that_read_sheet/
 - [6] https://github.com/afikanyati/cadenCV
 - [7] https://av.tib.eu/media/21107
-[8] https://www.youtube.com/watch?v=9boJ-Ai6QFM
+- [8] https://www.youtube.com/watch?v=9boJ-Ai6QFM
+
+  
+## Public Domain sheet music
+
+Some excellent sources for public domain sheet music for testing purposes:
+
+- **Musopen**: A non-profit organization that provides free recordings, sheet music, and textbooks without copyright restrictions. You can find a wide variety of classical music scores available for download. [Musopen](https://musopen.org) [1].
+
+- **IMSLP (International Music Score Library Project)**: This is one of the largest collections of public domain music scores. It includes thousands of works by various composers, and you can search by genre, composer, or instrumentation. [IMSLP](https://imslp.org) [6].
+
+- **Choral Public Domain Library (CPDL)**: This site focuses specifically on choral and vocal music in the public domain. It offers a searchable database of scores and MIDI files. [2].
+
+- **Library of Congress**: The Library of Congress has numerous digital historical sheet music collections, including various genres and periods. You can explore their collections for public domain music. [2].
+
+- **Sheet Music International**: A repository that specializes in free classical sheet music for various instruments and ensembles, including piano, orchestra, and vocal music. [5].
+
+These resources provide a wealth of material that can be used to test your music digitization and playback software effectively.
+
+References:
+
+- [1] https://musopen.org
+- [2] https://library.carrollcc.edu/c.php?g=98637&p=639268
+- [3] https://www.nypl.org/blog/2024/03/04/finding-sheet-music-public-domain
+- [4] https://www.reddit.com/r/InternetIsBeautiful/comments/13n7zmk/free_sheet_music_royalty_free_public_domain_music/
+- [5] https://sheetmusicinternational.com
+- [6] https://imslp.org/wiki/Public_domain
+- [7] https://researchguides.case.edu/c.php?g=17586&p=99056
+- [8] https://wiki.python.org/moin/PythonInMusic
+
